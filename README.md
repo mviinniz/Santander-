@@ -1,2 +1,2 @@
 # Santander-
-readme
+Durante o conteúdo assistido, foram observadas diversas ferramentas que auxiliam o pentest na descoberta de falhas de segurança e más configurações em sistemas, protocolos e serviços (como HTTPS e FTP). O sistema utilizado foi o Kali Linux, devido à sua grande quantidade de ferramentas disponíveis. Um dos pontos que facilitaria durante o exercício — ou até mesmo dentro de um escopo maior — seria a utilização, ou ao menos a citação, da wordlist rockyou para testes de usuários e senhas.
